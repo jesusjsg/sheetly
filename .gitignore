@@ -1,0 +1,11 @@
+.env
+.envrc
+.venv
+env/
+venv/
+.ruff_cache/
+.pypirc
+__pycache__/
+*.py[codz]
+*$py.class
+uv.lock
