@@ -1,5 +1,8 @@
+from src.cli.cli import version
+
+
 def main():
-    pass
+    version()
 
 
 if __name__ == "__main__":
